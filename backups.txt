@@ -1,0 +1,30 @@
+Inicio del script 2026-04-28
+____________________________________________________________________
+Realizando la copia de configuracion del servidor
+____________________________________________________________________
+Realizando la copia a la base de datos
+____________________________________________________________________
+Comprobando el contenido del directorio backups
+total 21356
+drwxr-xr-x  2 root           root               4096 abr 28 12:35 .
+drwx------ 19 proyectozabbix proyectozabbix     4096 abr 28 12:13 ..
+-rw-r--r--  1 root           root              48155 abr 28 12:35 zabbix_config_2026-04-28.tar.gz
+-rw-r--r--  1 root           root           21810326 abr 28 12:35 zabbix_db_2026-04-28.sql
+____________________________________________________________________
+Fin del script 2026-04-28
+____________________________________________________________________
+Inicio del script 2026-04-28
+____________________________________________________________________
+Realizando la copia de configuracion del servidor
+____________________________________________________________________
+Realizando la copia a la base de datos
+____________________________________________________________________
+Comprobando el contenido del directorio backups
+total 21412
+drwxr-xr-x  2 root           root               4096 abr 28 12:35 .
+drwx------ 19 proyectozabbix proyectozabbix     4096 abr 28 12:13 ..
+-rw-r--r--  1 root           root              48155 abr 28 12:36 zabbix_config_2026-04-28.tar.gz
+-rw-r--r--  1 root           root           21816865 abr 28 12:36 zabbix_db_2026-04-28.sql
+____________________________________________________________________
+Fin del script 2026-04-28
+____________________________________________________________________
